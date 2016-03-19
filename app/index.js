@@ -1,10 +1,5 @@
 import React, { Component } from 'react'
 import ReactDOM from 'react-dom'
+import routes from './config/routes'
 
-function HelloWorld() {
-	return (
-		<div>Hello World!</div>
-	)
-}
-
-ReactDOM.render(<HelloWorld />, document.getElementById('app'))
+ReactDOM.render(routes, document.getElementById('app'))
