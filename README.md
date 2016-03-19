@@ -1,3 +1,5 @@
+###Note: This is my forked repository for the React.js Fundamentals Cirriculum.  The code is mine, but the design is not.  Also, this combines the cirriculum for the Fundamentals and ES6 for React courses.
+
 <img src="http://www.reactjsprogram.com/images/reactjsprogram-500.png" width="250" align="right">
 
 React.js Fundamentals Curriculum
